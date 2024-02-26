@@ -3,7 +3,9 @@
 ### Career
 I've been a professional full-stack software engineer for 5 years and been programming since I was a teenager. 👨‍💻
 
-So far I've worked in the healthcare space. In that time, I've led initiatives and owned projects, collaborated across teams and departments, and mentored developers under me.  It's been fun to team up with smart people in a vertical I didn't know anything about to try to build new solutions to overdue problems. It's been a thrill to leverage my web development skills to tackle those challenges. 💡
+So far I've worked in the healthcare space. It's been fun to team up with smart people in a vertical I didn't know anything about, building new solutions to overdue problems. It's been a thrill to leverage my web development skills to tackle business challenges. 💡
+
+I've led initiatives and owned projects, collaborated across teams and departments, and mentored developers under me. I take pride in the individual work that I produce, but I'm also passionate about being someone people want to work with. To me, that means thoughtful communication, being available, a strong work ethic, and dependability.
 
 I just enjoy what I do, and I look forward to opportunities to apply my skillset towards business goals and continuing to learn more about my craft in the process. 🙌
 
