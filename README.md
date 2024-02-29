@@ -1,6 +1,5 @@
 ## Hi, I'm Devon 👋
 
-### Career
 I've been a professional full-stack software engineer for 5 years and been programming since I was a teenager. 👨‍💻
 
 So far I've worked in the healthcare space. It's been fun to team up with smart people in a vertical I didn't know anything about, building new solutions to overdue problems. It's been a thrill to leverage my web development skills to tackle business challenges. 💡
